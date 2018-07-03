@@ -1,4 +1,4 @@
-Hrequire('dotenv').config();
+require('dotenv').config();
 const fs = require('fs');
 const Web3 = require('web3');
 const Web3Utils = require('web3-utils');
